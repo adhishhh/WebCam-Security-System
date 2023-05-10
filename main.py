@@ -14,10 +14,10 @@ pir_pin = 14
 
 smtp_server = 'smtp.gmail.com'
 smtp_port = 587
-smtp_username = '1032201793@mitwpu.edu.in'
+smtp_username = '103220xxxx@mitwpu.edu.in'
 smtp_password = '2bTIk601#45ZeHd'
 from_email = smtp_username
-to_email = '1062190962@mitwpu.edu.in'
+to_email = '106219xxxx@mitwpu.edu.in'
 
 print("PIR sensor warming up...")
 time.sleep(10)
